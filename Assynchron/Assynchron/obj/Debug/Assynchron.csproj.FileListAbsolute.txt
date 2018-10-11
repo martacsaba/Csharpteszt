@@ -1,0 +1,7 @@
+C:\Users\martacs\source\repos\Assynchron\Assynchron\bin\Debug\Assynchron.exe.config
+C:\Users\martacs\source\repos\Assynchron\Assynchron\bin\Debug\Assynchron.exe
+C:\Users\martacs\source\repos\Assynchron\Assynchron\bin\Debug\Assynchron.pdb
+C:\Users\martacs\source\repos\Assynchron\Assynchron\obj\Debug\Assynchron.csprojAssemblyReference.cache
+C:\Users\martacs\source\repos\Assynchron\Assynchron\obj\Debug\Assynchron.csproj.CoreCompileInputs.cache
+C:\Users\martacs\source\repos\Assynchron\Assynchron\obj\Debug\Assynchron.exe
+C:\Users\martacs\source\repos\Assynchron\Assynchron\obj\Debug\Assynchron.pdb
